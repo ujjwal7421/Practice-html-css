@@ -26,8 +26,6 @@ html,body{
 
 #nav{
     height: 75px;
-    /*background-color: red;*/
-    /*width: 100%;*/
     padding: 0 30px;
     display: flex;
     align-items: center;
@@ -217,9 +215,7 @@ html,body{
 }
 
 #art{
-    /* padding-right: 20px; */
     font-size: 510px;
-
 }
 
 
@@ -250,7 +246,6 @@ html,body{
 
 
 #page2{
-    /* height: auto; */
     width: 100vw;
     background-color: rgb(197,189,179);
     display: flex;
@@ -311,12 +306,8 @@ html,body{
     height: 600px;
     width: 820px;
     margin-bottom: 50px;
-    /* margin-top: 0px; */
     overflow: hidden;
-    /* border: 1.5px solid #1c1b19; */
     object-fit: cover;
-    /* transform: rotate(90deg); */
-
     mix-blend-mode:multiply;
 
 }
@@ -390,7 +381,6 @@ html,body{
 
 #left11{
     padding: 10px;
-    /* text-align: center; */
     font-size: 15px;
     border-right: 1px solid #222;
 }
@@ -433,17 +423,6 @@ html,body{
     font-family: Canopee;
 }
 
-/* 
-#left12 h4 span{
-    background-color: #c74f27;
-    color: #fff;
-    font-weight: 100;
-    font-size: 18px;
-    padding: 2px;
-    border-radius: 5px;
-    margin-left: 10px;
-}
- */
 
 
 #left12 p{
@@ -459,7 +438,6 @@ html,body{
     width: 890px;
     margin-bottom: 50px;
     overflow: hidden;
-    /* border: 1.5px solid #1c1b19; */
     object-fit: cover;
     mix-blend-mode: multiply;
 
@@ -538,8 +516,6 @@ html,body{
 
 
 #page5{
-   
-    /* height: 600px; */
     width: 100%;
     background-color: rgb(197,189,179);
     display: flex;
@@ -600,7 +576,6 @@ html,body{
     width: 700px;
     mix-blend-mode: multiply;
     object-fit: cover;
-    /* border: 1.5px solid #222; */
 
 }
 
@@ -671,23 +646,12 @@ html,body{
 #page6{
     width: 100%;
     background-color: rgb(197,189,179);
-    /* position: relative; */
     overflow: hidden;
     margin-bottom: 0px;
     border-top:  1.5px solid #222;
     border-bottom:  1.5px solid #222;
 }
 
-/* 
-#email{
-    height: 100px;
-    width: 100%;
-    border: 2px solid #222;
-    background-color: rgb(197,189,179);
-    overflow: hidden;
-    display: flex;
-    display: inline-flex;
-} */
 
 #email {
     padding: 25px 0;
@@ -708,7 +672,6 @@ html,body{
     font-size: 70px;
     font-weight: 100;
     display: inline-block;
-    /* background-color: red; */
     animation-timing-function: linear;
     margin-right: 30px;
     animation-name: scroll;
